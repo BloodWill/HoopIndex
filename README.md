@@ -1,5 +1,7 @@
 # hoopIndex
 
+**Live page → https://bloodwill.github.io/HoopIndex/**
+
 Nightly NBA player projections with honest uncertainty — the ranked board plus a
 per-player card (style label, error bars, games range, fingerprint).
 
